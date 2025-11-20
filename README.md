@@ -20,10 +20,10 @@ Transitioning into a career in networking and cybersecurity, aiming to contribut
  
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking:TCP/IP, VLANs, Routing & Switching        | <a href="https://github.com/Geemaima97/Multi-Area-OSPF-SSH-lab.">Multi-Area-OSPF-SSH</a>|
-| Networking: Routing protocols| <a href="https://google.com">Detection Lab</a>|
+| Multi-Area OSPF + SSH      | <a href="https://github.com/Geemaima97/Multi-Area-OSPF-SSH-lab.">Multi-Area-OSPF-SSH</a>|
+| IPv6 Dual-Stack + OSPFv3 + SSH | <a href="https://github.com/Geemaima97/IPv6-Dual-Stack-OSPFv3-SSH.">IPv6-Dual-Stack-OSPFv3-SSH</a>|
 | OSPF Single Area + NTP + Banner + SSH       | Packet tracer Lab|
-| IPv6 Dual-Stack + OSPFv3 + SSH     | Packet tracer Lab|
+| VLANs + Inter-VLAN Routing   | Packet tracer Lab|
 | Security + ACL +  SSH + Portsecurity                | Packet tracer Lab|
 | Linux | Ubuntu|
 | Linux | Ubuntu|
